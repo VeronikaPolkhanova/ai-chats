@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# AI Chat Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an AI Chat application that allows users to interact with an intelligent chatbot powered by artificial intelligence technology. Users can have conversations with the chatbot, ask questions, receive answers, and engage in meaningful dialogue.
 
-## Available Scripts
+# Features
 
-In the project directory, you can run:
+1. Intelligent chatbot powered by AI technology
+2. Natural language processing for human-like conversations, support any languages
+3. User-friendly interface for easy interaction
+4. Chat history for reviewing past conversations
+5. Authorization
+
+# How to Use
+
+Clone git repository on your device
+
+### `git clone https://github.com/VeronikaPolkhanova/ai-chats.git`
+
+Open terminal and make
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open app in http://localhost:3000/ and login with creds:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+wpolhanova@gmail.com
+dPBtUvt6Qqsms97
 
-### `npm test`
+or create new one.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open chat and start a conversation with the chatbot by typing a message in the chatbox.
+The chatbot will respond to your message with an intelligent reply.
+Continue the conversation by asking questions or sharing thoughts.
+Review past conversations by scrolling through the chat history.
+Enjoy engaging with the AI chatbot for a unique and interactive experience.
 
-### `npm run build`
+# Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React, TypeScript, Mobx, Scss, nlux(ai chat), auth0(authorization 3rd party provider)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Feedback and Support
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I welcome any feedback for AI Chat application. If you encounter any issues or have questions about the app, please contact via telegram or mail:
+https://t.me/vpolkhanova
+wpolhanova@gmail.com
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you for open my test AI Chat application! I hope you enjoy interacting with my intelligent chatbot.
