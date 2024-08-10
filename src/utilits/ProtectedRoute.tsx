@@ -7,7 +7,7 @@ interface IProtectedRouteProps {
 
 const ProtectedRoute = ({ children }: IProtectedRouteProps) => {
   const { isAuthenticated }: any = useAuth0();
-  if (!isAuthenticated) return <Navigate to="login" />;
+  if (!isAuthenticated) return <Navigate to="/login" />;
 
   return children;
 };

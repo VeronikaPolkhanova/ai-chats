@@ -18,20 +18,25 @@ Clone git repository on your device
 
 Open terminal and make
 
+### `npm install`
+
 ### `npm start`
 
 Open app in http://localhost:3000/ and login with creds:
 
-wpolhanova@gmail.com
-dPBtUvt6Qqsms97
+### `wpolhanova@gmail.com`
 
-or create new one.
+### `dPBtUvt6Qqsms97`
+
+or create a new one.
 
 Open chat and start a conversation with the chatbot by typing a message in the chatbox.
 The chatbot will respond to your message with an intelligent reply.
 Continue the conversation by asking questions or sharing thoughts.
 Review past conversations by scrolling through the chat history.
 Enjoy engaging with the AI chatbot for a unique and interactive experience.
+
+### Dont use Firefox web browser because of auth0 service has authorization bug
 
 # Technologies Used
 
